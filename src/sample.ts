@@ -18,3 +18,7 @@ const aData: (number | string)[] = [];
 aData.push('');
 aData.push(34);
 console.log(aData);
+
+export function add(a: number, b: number) {
+  return a + b;
+}
