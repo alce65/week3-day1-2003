@@ -53,6 +53,7 @@ class Dog {
 }
 
 const s1 = new Student('Ramón', 54, 'Angular');
+
 s1.greetings();
 
 const x: Live = { name: 'Sofia', species: 'Perro' };
